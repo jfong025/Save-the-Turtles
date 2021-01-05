@@ -1,0 +1,11 @@
+Make sure you're in the src folder
+then run the following commands in the terminal:
+javac *.java (to compile)
+java Main (to run)
+
+Use wasd keys to move the turtle
+w:up, a:left, s:down, d:right
+
+Click on the mouse to shoot in that direction
+
+User wants to get the highest score possible
